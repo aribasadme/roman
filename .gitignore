@@ -1,0 +1,15 @@
+#########################################
+# Editor temporary/working/backup files #
+.vscode/
+# environment
+venv/
+
+# OS generated files #
+######################
+.DS_Store
+
+# Python files #
+################
+*.pytest_cache
+__pycache__
+.coverage
